@@ -1,0 +1,16 @@
+<resources>
+    <string name="title_categories">Gestion des catégories</string>
+    <string name="hint_new_category">Nouvelle catégorie</string>
+    <string name="button_add">Ajouter</string>
+        <string name="date_debut">Date début</string>
+        <string name="date_fin">Date fin</string>
+        <string name="categorie">Catégorie</string>
+        <string name="filtrer">Filtrer</string>
+        <string name="ajouter_depense">Ajouter une dépense</string>
+        <string name="montant">Montant</string>
+        <string name="date_format">Date (AAAA-MM-JJ)</string>
+        <string name="note">Note (optionnelle)</string>
+    <string name="category_name_hint">category_name_hint</string>
+    <string name="d_pens">Dépensé :</string>
+    <string name="reste">Reste : €</string>
+</resources>
